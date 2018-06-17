@@ -1,4 +1,4 @@
-num, name, sex, age
-1, kaneko, man, 24
-2, tanaka, woman, 20
-3, suzuki, woman, 32
+num, name, sex, age, pereference, dinner
+1, kaneko, man, 24, tea, Yes
+2, tanaka, woman, 20,"tea, coffee, juice","Yes, No"
+3, suzuki, woman, 32, coffee,No
